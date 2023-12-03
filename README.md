@@ -182,9 +182,9 @@ clear_output()
 print("All set and ready!")
 ```
 --------
-**FOLLOW THESE STEPS TO PERFORM LIPSYNC FOR A VIDEO**
+FOLLOW THESE STEPS TO PERFORM LIPSYNC FOR A VIDEO
 --------
-Uploading Sample Video
+##Uploading Sample Video##
 Run the code to upload the sample video to Google Colab files.
 Use the following code to perform the upload:
 ```
