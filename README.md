@@ -183,7 +183,7 @@ clear_output()
 print("All set and ready!")
 ```
 
-FOLLOW THESE STEPS TO PERFORM LIPSYNC FOR A VIDEO:
+**FOLLOW THESE STEPS TO PERFORM LIPSYNC FOR A VIDEO**
 
 Uploading Sample Video
 Run the code to upload the sample video to Google Colab files.
@@ -280,7 +280,7 @@ else:
 
 ```
 
-UPLOADING AUDIO
+**UPLOADING AUDIO**
 
 Upload the audio file you want to sync to Google Colab.
 Run the code to upload the audio file:
@@ -337,7 +337,7 @@ else:
   displayAudio()
 ```
 
-MERGING THE VIDEO AND AUDIO
+**MERGING THE VIDEO AND AUDIO**
 
 
 Run the final code to merge both the audio and video and perform the lipsync process:
