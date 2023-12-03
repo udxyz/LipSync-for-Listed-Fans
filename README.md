@@ -6,10 +6,9 @@ This project enables lip synchronization for a given video using a pre-trained m
 
 ## Table of Contents
 1. [Installation](#installation)
-2. [Usage](#usage)
-3. [Uploading Sample Video](#uploading-sample-video)
-4. [Uploading Audio](#uploading-audio)
-5. [Merging Audio and Video](#merging-audio-and-video)
+2. [Uploading Sample Video](#Uploading Sample Video)
+3. [Uploading Audio](#uploading-audio)
+4. [Merging Audio and Video](#merging-audio-and-video)
 
 ## Installation
 
