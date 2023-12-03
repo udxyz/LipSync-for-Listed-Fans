@@ -10,7 +10,7 @@ This project enables lip synchronization for a given video using a pre-trained m
 3. [Uploading Audio](#uploading-audio)
 4. [Merging Audio and Video](#merging-the-video-and-audio)
 
-## Installation
+Installation
 
 To get started, open the code in Google Colab and run the following code to install the required dependencies and load the pre-trained model:
 
