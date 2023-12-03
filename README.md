@@ -182,9 +182,9 @@ from IPython.display import clear_output
 clear_output()
 print("All set and ready!")
 ```
-
+--------
 **FOLLOW THESE STEPS TO PERFORM LIPSYNC FOR A VIDEO**
-
+--------
 Uploading Sample Video
 Run the code to upload the sample video to Google Colab files.
 Use the following code to perform the upload:
@@ -279,8 +279,9 @@ else:
         showVideo(PATH_TO_YOUR_VIDEO)
 
 ```
-
+--------
 **UPLOADING AUDIO**
+--------
 
 Upload the audio file you want to sync to Google Colab.
 Run the code to upload the audio file:
@@ -336,9 +337,9 @@ else:
   clear_output()
   displayAudio()
 ```
-
+--------
 **MERGING THE VIDEO AND AUDIO**
-
+--------
 
 Run the final code to merge both the audio and video and perform the lipsync process:
 
@@ -374,6 +375,8 @@ if os.path.exists(output_file_path):
 else:
     print("Processing failed. Output video not found.")
 ```
+--------
 Once the process is finished, the output video will be produced.
-
+--------
 Note: Make sure to check the code comments and adjust any parameters or file paths as needed for your specific use case.
+--------
