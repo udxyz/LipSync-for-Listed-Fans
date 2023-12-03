@@ -6,9 +6,9 @@ This project enables lip synchronization for a given video using a pre-trained m
 
 ## Table of Contents
 1. [Installation](#installation)
-2. [Uploading Sample Video](#FOLLOWTHESESTEPSTOPERFORMLIPSYNCFORAVIDEO)
+2. [Uploading Sample Video](#FOLLOW-THE-STEPS-TO-PERFORM-LIPSYNC-FOR-A-VIDEO)
 3. [Uploading Audio](#uploading-audio)
-4. [Merging Audio and Video](#merging-audio-and-video)
+4. [Merging Audio and Video](#MERGING-THE-VIDEO-AND-AUDIO)
 
 ## Installation
 
